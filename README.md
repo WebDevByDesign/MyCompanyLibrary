@@ -1,8 +1,6 @@
 # My Company Library 📚
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## Screen Shot
-  
-  ![ALT](*Add screenshot file path here*) -> Delete if n/a.
+ 
 ## Title
   My Company Library
 ## Description
@@ -21,7 +19,7 @@ Ensure you are in the integrated terminal, of the location you would like this a
  ```npm i```
 Once all packages have been installed, in your terminal, run the following line of code:
 ```node app.js```
-This will starts the prompts and options for the app. Choose based onpreference.
+This will starts the prompts and options for the app. Choose based on preference.
 ## Contribution
 If you would like to contribute to this repo, you will need to clone the repo locally and then create a pull request via GitHub.
 ## License
