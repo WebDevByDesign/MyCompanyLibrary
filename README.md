@@ -1,6 +1,7 @@
 # My Company Library 📚
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- 
+ ## Screenshot
+![ALT](/assets/SS-MyCompanyLibrary.png)
 ## Title
   My Company Library
 ## Description
