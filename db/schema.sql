@@ -17,7 +17,7 @@ CREATE TABLE role (
     department_id INT,
     CONSTRAINT fkey_department FOREIGN KEY(department_id) REFERENCES department(id) ON DELETE CASCADE
 );
-
+-- Create employee table with four columns - first name, last name, role & manager
 CREATE TABLE employee (
     id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(30),
