@@ -1,0 +1,28 @@
+{
+  "name": "my-company-library",
+  "version": "1.0.0",
+  "description": "Employee Tracker for Companies personell files",
+  "main": "schema.sql",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "Rachael Blasko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+miss.blasko"
+  },
+  "bugs": {
+    "url": "https://github.com/missblasko/MyCompanyLibrary/issues"
+  },
+  "homepage": "https://github.com/missblasko/MyCompanyLibrary#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.3.2"
+  }
+}
