@@ -27,4 +27,5 @@ CREATE TABLE employee (
     manager_id INT,
     CONSTRAINT fk_manager FOREIGN KEY (manager_id)
     REFERENCES employee(id) ON DELETE SET NULL
-)
+);
+ 
