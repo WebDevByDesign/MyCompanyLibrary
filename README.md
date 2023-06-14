@@ -17,7 +17,7 @@ Sensitive data, like salary details, can be stored as well. You can add addition
 ## Usage
 Use My Company Library to organize your employee personnell information.
 ## Demo
-Watch the demo here: []
+Watch the demo here: [https://youtu.be/c78B2McNemM]
 ## Installation
 Ensure you are in the integrated terminal, of the location you would like this app to be ran at. Then, clone the My Company Library repository. On your command line- run the following line of code to install all required packages:
 >
